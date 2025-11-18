@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px; 
+  padding: 0 0.5rem 0 0.5rem;
+  text-align: center;
+}
+
+
+.app-container-glow {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("./assets/images/fondo-after-glow.jpeg");
+  background-repeat: repeat-x;   /* 🔑 se repite solo en el eje X */
+  background-position: top;      /* empieza desde arriba */
+  background-size: auto;         /* mantiene el tamaño original */
+ 
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
