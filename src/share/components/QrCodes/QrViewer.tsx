@@ -17,10 +17,11 @@ function QrViewer() {
   if (!imageSrc) {
     return (
       <div className="app-container-glow">
-        <h2 style={{ color: "white", textAlign: "center" }}>QR no encontrado</h2>
+        <h2 style={{ color: "white", textAlign: "center" }}>QR  no  encontrado</h2>
       </div>
     );
   }
+
 
   return (
     <div className="app-container-glow" style={{ display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center" }}>
