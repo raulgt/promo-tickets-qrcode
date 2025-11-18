@@ -15,6 +15,15 @@
  
 }
 
+/* Estilo para pantallas pequeñas (smartphones) */
+@media (max-width: 768px) {
+  .app-container-glow {
+    background-repeat: no-repeat;   /* no se repite */
+    background-position: center;    /* centrado */
+    background-size: cover;         /* se adapta al tamaño de la pantalla */
+  }
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0;

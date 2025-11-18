@@ -27,7 +27,7 @@ function QrViewer() {
       <img 
       src={imageSrc} alt={`QR ${id}`} 
       style={{ 
-        maxWidth: "350px", 
+        maxWidth: "255px", 
         width: "100%",
         height: "auto" 
       }} 
