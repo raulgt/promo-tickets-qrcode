@@ -7,7 +7,7 @@ import QrViewer from './share/components/QrCodes/QrViewer.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-     <BrowserRouter>
+     <BrowserRouter basename="/promo-tickets-qrcode/">
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/qr/:id" element={<QrViewer />} />
