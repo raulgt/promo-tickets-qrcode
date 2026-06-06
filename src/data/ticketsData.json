@@ -7822,5 +7822,47 @@
     "id": "edd31a6a-f406-441f-92ed-2f50ad79fe0e",
     "buyer_name": "Jesús Saavedra",
     "buyer_identification": "00885555"
+  },
+    {
+    "id_serie": 866,
+    "id": "cfa2c1ea-3f3b-43e6-99c6-551b47222595",
+    "buyer_name": "Daniel Parra",
+    "buyer_identification": "33598236"
+  },
+  {
+    "id_serie": 867,
+    "id": "77d0ffa2-7a29-4fa0-9d70-e91f606e0447",
+    "buyer_name": "Valentina colmenares",
+    "buyer_identification": "33640437"
+  },
+  {
+    "id_serie": 868,
+    "id": "4eb2f88a-7507-40bd-a856-3293b72ae47b",
+    "buyer_name": "Nicolá",
+    "buyer_identification": "19644597"
+  },
+  {
+    "id_serie": 870,
+    "id": "542287d8-d199-4e80-a094-7ccd699d70c6",
+    "buyer_name": "Douglas Ortega",
+    "buyer_identification": "33949098"
+  },
+  {
+    "id_serie": 871,
+    "id": "14bd496a-cb92-432a-a467-4ef7280578b5",
+    "buyer_name": "Valeria Simancas",
+    "buyer_identification": "31866181"
+  },
+  {
+    "id_serie": 872,
+    "id": "39bfafb3-1d6c-4b23-b548-00fa1c5e65f5",
+    "buyer_name": "María bastidas",
+    "buyer_identification": "20906109"
+  },
+  {
+    "id_serie": 873,
+    "id": "1daebb60-d06e-49d5-b991-f667e1a1fbd6",
+    "buyer_name": "Yenifer chuecos",
+    "buyer_identification": "16534054"
   }
 ]
