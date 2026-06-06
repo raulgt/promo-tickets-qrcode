@@ -5398,5 +5398,1805 @@
     "id": "cba504bc-323a-4272-ba2e-65021841bd33",
     "buyer_name": "Alessandro Salas",
     "buyer_identification": "34265598"
+  },
+   {
+    "id_serie": 286,
+    "id": "bc866aa2-364b-4538-8495-bddea0c623e1",
+    "buyer_name": "Hugo Alberto Matute",
+    "buyer_identification": "16425409"
+  },
+  {
+    "id_serie": 287,
+    "id": "7ba9e9c0-0a2b-489e-b8f1-af85b6af413e",
+    "buyer_name": "Daniela torres",
+    "buyer_identification": "18456883"
+  },
+  {
+    "id_serie": 288,
+    "id": "33e593bd-fc62-418d-b0e0-119b2b277676",
+    "buyer_name": "María Alejandra Román",
+    "buyer_identification": "36745617"
+  },
+  {
+    "id_serie": 289,
+    "id": "a898fd40-43d7-46a2-814b-24e465c3daf3",
+    "buyer_name": "María torres",
+    "buyer_identification": "16883558"
+  },
+  {
+    "id_serie": 290,
+    "id": "383b8ad1-317e-4af2-a74f-25e3b16a5da7",
+    "buyer_name": "María torres",
+    "buyer_identification": "16883558"
+  },
+  {
+    "id_serie": 291,
+    "id": "a57120d6-6706-446f-9279-6fae65a165e1",
+    "buyer_name": "María torres",
+    "buyer_identification": "16883558"
+  },
+  {
+    "id_serie": 292,
+    "id": "7145e7cc-6bdd-40af-9e5f-4bd37338d60b",
+    "buyer_name": "mariana pacheco",
+    "buyer_identification": "32812464"
+  },
+  {
+    "id_serie": 293,
+    "id": "d349f5eb-48a2-43d3-8151-e795236bbd61",
+    "buyer_name": "María torres",
+    "buyer_identification": "16883558"
+  },
+  {
+    "id_serie": 294,
+    "id": "c824bcd8-81d6-42bb-b433-2b65af9005e6",
+    "buyer_name": "María torres",
+    "buyer_identification": "16883558"
+  },
+  {
+    "id_serie": 295,
+    "id": "fd74dab1-6d39-4f3d-9c37-30d4a0bf1106",
+    "buyer_name": "María torres",
+    "buyer_identification": "16883558"
+  },
+  {
+    "id_serie": 296,
+    "id": "7f48b689-5cac-475a-8c0d-a6c20eab1e1b",
+    "buyer_name": "María torres",
+    "buyer_identification": "16883558"
+  },
+  {
+    "id_serie": 299,
+    "id": "c958a5be-21a0-43d3-98e9-89e1747ece8c",
+    "buyer_name": "María torres",
+    "buyer_identification": "16883558"
+  },
+  {
+    "id_serie": 300,
+    "id": "6988290e-b605-4b52-8659-1c13dc28fb3d",
+    "buyer_name": "María torres",
+    "buyer_identification": "16883558"
+  },
+  {
+    "id_serie": 1326,
+    "id": "84442f66-22b1-4486-b39e-3906e2c244f4",
+    "buyer_name": "Diego Rangel",
+    "buyer_identification": "32971320"
+  },
+  {
+    "id_serie": 1327,
+    "id": "aa657ada-a151-44cd-adb5-8ed6d080fe7c",
+    "buyer_name": "Mariany Fernandez",
+    "buyer_identification": "33465286"
+  },
+  {
+    "id_serie": 1362,
+    "id": "3c04c9f7-c976-4289-bae1-baec9fe544d1",
+    "buyer_name": "Darianys Quintero",
+    "buyer_identification": "34591214"
+  },
+  {
+    "id_serie": 77,
+    "id": "3edfbd68-8fed-46bb-980c-0414b4501935",
+    "buyer_name": "kleyrismar miranda",
+    "buyer_identification": "34104854"
+  },
+  {
+    "id_serie": 78,
+    "id": "a4efb00b-f6b2-4a91-a4bb-b3775fed5d2a",
+    "buyer_name": "mireyma Pacheco",
+    "buyer_identification": "11110360"
+  },
+  {
+    "id_serie": 79,
+    "id": "011d8600-fcec-41fc-8cc1-a9d2b3bbf5f4",
+    "buyer_name": "David di Gabriele",
+    "buyer_identification": "25170960"
+  },
+  {
+    "id_serie": 80,
+    "id": "52799b42-4e39-4f31-9f12-12adb99eb476",
+    "buyer_name": "Jeferson delgado",
+    "buyer_identification": "32282877"
+  },
+  {
+    "id_serie": 81,
+    "id": "aec18f9d-2854-406f-9c1a-ceb80a61d145",
+    "buyer_name": "Jhonatan carmona",
+    "buyer_identification": "32282325"
+  },
+  {
+    "id_serie": 82,
+    "id": "7ef803ac-60db-4b98-b16f-e1c14cf1f2c9",
+    "buyer_name": "Rodrigo briceño",
+    "buyer_identification": "37448969"
+  },
+  {
+    "id_serie": 83,
+    "id": "2f0b736c-1adc-4246-a56d-09151fbcfdff",
+    "buyer_name": "Anthony Salcedo",
+    "buyer_identification": "28323214"
+  },
+  {
+    "id_serie": 1390,
+    "id": "c2eaa87a-aa58-489c-96eb-d339d2383de9",
+    "buyer_name": "Abraham Castaldi",
+    "buyer_identification": "35116244"
+  },
+  {
+    "id_serie": 84,
+    "id": "42d845fe-052e-4801-b6dc-fb3b1ca018f0",
+    "buyer_name": "Gilberto Miranda",
+    "buyer_identification": "11612283"
+  },
+  {
+    "id_serie": 85,
+    "id": "eb8ad665-fb41-487a-8bde-d5a30c153272",
+    "buyer_name": "Daniel romero",
+    "buyer_identification": "34173724"
+  },
+  {
+    "id_serie": 1396,
+    "id": "103c72c0-b0b0-4eae-b9c1-290dfda31943",
+    "buyer_name": "José Contreras",
+    "buyer_identification": "29541813"
+  },
+  {
+    "id_serie": 86,
+    "id": "c8d93650-b45c-40de-9ba1-0c7ec145a857",
+    "buyer_name": "Edgar mejia",
+    "buyer_identification": "33899061"
+  },
+  {
+    "id_serie": 1397,
+    "id": "98c199c1-0586-44a1-a03d-5c88cd7bf009",
+    "buyer_name": "Johelis Monroy",
+    "buyer_identification": "33898849"
+  },
+  {
+    "id_serie": 87,
+    "id": "c411ac39-0553-4551-810b-557ee7295921",
+    "buyer_name": "Andrea Quiroga",
+    "buyer_identification": "33107380"
+  },
+  {
+    "id_serie": 1398,
+    "id": "ee4db4c0-8df5-46d2-ba27-35ca95ba1c00",
+    "buyer_name": "Diana Quintero",
+    "buyer_identification": "33699155"
+  },
+  {
+    "id_serie": 88,
+    "id": "17357f9c-450a-41e9-b171-1d9ade18d720",
+    "buyer_name": "Camila mejia",
+    "buyer_identification": "32902233"
+  },
+  {
+    "id_serie": 1400,
+    "id": "101bb762-f696-471e-b27b-c5e14eff4b7b",
+    "buyer_name": "Alex Araujo",
+    "buyer_identification": "32373741"
+  },
+  {
+    "id_serie": 89,
+    "id": "93fd41ed-86bd-494c-bfc7-60dfe624650e",
+    "buyer_name": "Germán Bracho",
+    "buyer_identification": "33456798"
+  },
+  {
+    "id_serie": 1401,
+    "id": "8e7cca8f-9c22-4c0d-96d3-b110940e59c5",
+    "buyer_name": "Emiletza Teran",
+    "buyer_identification": "11705080"
+  },
+  {
+    "id_serie": 90,
+    "id": "5c97a370-f0e1-4b77-936e-8154f5e6f678",
+    "buyer_name": "Enmanuel Lara",
+    "buyer_identification": "33598264"
+  },
+  {
+    "id_serie": 91,
+    "id": "6b092f52-0ba9-4bdf-a95c-2f299beffccc",
+    "buyer_name": "yosmer García",
+    "buyer_identification": "33407019"
+  },
+  {
+    "id_serie": 92,
+    "id": "2f8e1105-f563-4b90-bc68-d3f267e9017c",
+    "buyer_name": "luisangela centeno",
+    "buyer_identification": "34838917"
+  },
+  {
+    "id_serie": 1402,
+    "id": "855041fe-f76a-4a5d-aa8b-a300f8a28045",
+    "buyer_name": "Adonis segovia",
+    "buyer_identification": "36083547"
+  },
+  {
+    "id_serie": 93,
+    "id": "2e5b8047-7083-4216-aacb-5a01fbd3087a",
+    "buyer_name": "Génesis Pacheco",
+    "buyer_identification": "34035599"
+  },
+  {
+    "id_serie": 1403,
+    "id": "a799913e-4287-43ad-9805-b6239d1c152e",
+    "buyer_name": "Andreina BRICEÑO",
+    "buyer_identification": "19287580"
+  },
+  {
+    "id_serie": 94,
+    "id": "4fa06f88-04ed-4caf-9ebc-e512e1bd13f4",
+    "buyer_name": "Marisabel briceño",
+    "buyer_identification": "34104365"
+  },
+  {
+    "id_serie": 1404,
+    "id": "dcb98685-a7d3-4db1-9972-6982e98922d2",
+    "buyer_name": "Darwin Perez",
+    "buyer_identification": "32461602"
+  },
+  {
+    "id_serie": 1405,
+    "id": "4336143b-63c3-4dc9-b118-cc19fb36897a",
+    "buyer_name": "Mariangel Artiagas",
+    "buyer_identification": "33598304"
+  },
+  {
+    "id_serie": 1399,
+    "id": "671c5b04-0db4-43f8-b556-537ce2074f0d",
+    "buyer_name": "Eliana Volcanes",
+    "buyer_identification": "27557664"
+  },
+  {
+    "id_serie": 191,
+    "id": "3b89fa49-b2b9-4564-b5f1-fba13545ebaa",
+    "buyer_name": "José Contreras",
+    "buyer_identification": "33466016"
+  },
+  {
+    "id_serie": 192,
+    "id": "a472e9ce-c426-417b-93de-dfb6a97967c4",
+    "buyer_name": "María Pérez",
+    "buyer_identification": "33458339"
+  },
+  {
+    "id_serie": 193,
+    "id": "deabf664-da19-44b4-8358-7eebdde34089",
+    "buyer_name": "Diego González",
+    "buyer_identification": "32188595"
+  },
+  {
+    "id_serie": 194,
+    "id": "32cccc63-6364-4f7e-9be3-633723b1389a",
+    "buyer_name": "juliana soto",
+    "buyer_identification": "34830051"
+  },
+  {
+    "id_serie": 195,
+    "id": "1fa25f74-5cb7-46c3-b4fd-0d491b62c81f",
+    "buyer_name": "Isaac García",
+    "buyer_identification": "34517245"
+  },
+  {
+    "id_serie": 196,
+    "id": "839bc548-a2c2-401d-821a-289e7bda8e56",
+    "buyer_name": "jhosmer victora",
+    "buyer_identification": "33494295"
+  },
+  {
+    "id_serie": 197,
+    "id": "c5c33088-78ae-4627-8f92-8e604a3115f3",
+    "buyer_name": "jeampier carreño",
+    "buyer_identification": "31168109"
+  },
+  {
+    "id_serie": 198,
+    "id": "58d60a0a-4121-40ae-bd47-a6497195dfad",
+    "buyer_name": "Manuel Gonzáles",
+    "buyer_identification": "34179177"
+  },
+  {
+    "id_serie": 199,
+    "id": "d879d2ff-307d-4892-9321-a7bd1e5bd36c",
+    "buyer_name": "Alessandro salas",
+    "buyer_identification": "34265598"
+  },
+  {
+    "id_serie": 341,
+    "id": "fc85b2cd-da48-44c1-8891-1b8f732d43ca",
+    "buyer_name": "Santiago rivas",
+    "buyer_identification": "34034952"
+  },
+  {
+    "id_serie": 326,
+    "id": "c171d721-d1c5-43d4-b4f8-4d855f8ce96f",
+    "buyer_name": "Oscar Pérez",
+    "buyer_identification": "33174023"
+  },
+  {
+    "id_serie": 327,
+    "id": "be51d815-8dd4-4510-95d8-4276cd15a969",
+    "buyer_name": "Ivana rumbos",
+    "buyer_identification": "33756611"
+  },
+  {
+    "id_serie": 328,
+    "id": "5962fe32-472d-477f-b564-383bb48b8160",
+    "buyer_name": "Gabriela Bracho",
+    "buyer_identification": "33494079"
+  },
+  {
+    "id_serie": 329,
+    "id": "d751c47d-67bf-4908-905b-53a5a468304c",
+    "buyer_name": "milagro cuevas",
+    "buyer_identification": "18985180"
+  },
+  {
+    "id_serie": 330,
+    "id": "6b48cf8f-0c77-4542-9cfd-d23cbf5b7437",
+    "buyer_name": "gregory blanco",
+    "buyer_identification": "17832953"
+  },
+  {
+    "id_serie": 331,
+    "id": "a3c21b74-f0d7-4d76-8ee3-081de65453a0",
+    "buyer_name": "José boscan",
+    "buyer_identification": "33092254"
+  },
+  {
+    "id_serie": 332,
+    "id": "21ff61da-27f2-439f-8662-e172040feae4",
+    "buyer_name": "Rosansie gonzales",
+    "buyer_identification": "33457791"
+  },
+  {
+    "id_serie": 333,
+    "id": "3304b07f-2b08-4681-80f5-7189d321c040",
+    "buyer_name": "Fiorella Hernández",
+    "buyer_identification": "33465622"
+  },
+  {
+    "id_serie": 334,
+    "id": "7c2aca3b-0508-4308-bb1e-e04c512260a3",
+    "buyer_name": "alondra rangel",
+    "buyer_identification": "34360361"
+  },
+  {
+    "id_serie": 335,
+    "id": "74d7d3fe-7587-4ae8-a249-87ced3725548",
+    "buyer_name": "endry vera",
+    "buyer_identification": "33574350"
+  },
+  {
+    "id_serie": 336,
+    "id": "30e81b5e-9f36-4837-93a7-11210fbbf7d2",
+    "buyer_name": "Luis mujica",
+    "buyer_identification": "33382385"
+  },
+  {
+    "id_serie": 337,
+    "id": "76c1c549-75bd-4765-bbea-8775b9372958",
+    "buyer_name": "rubi contreras",
+    "buyer_identification": "33382446"
+  },
+  {
+    "id_serie": 338,
+    "id": "ef8bb44a-4e6d-44f9-95d4-48d57bfc8252",
+    "buyer_name": "Marylin D'alvano",
+    "buyer_identification": "12723684"
+  },
+  {
+    "id_serie": 339,
+    "id": "5e2bc2cb-4d64-4e80-a0c1-d5127e438d6f",
+    "buyer_name": "Arturo araujo",
+    "buyer_identification": "33899200"
+  },
+  {
+    "id_serie": 340,
+    "id": "e62738f4-78c2-4137-8566-05f577094185",
+    "buyer_name": "María azuaje",
+    "buyer_identification": "33382128"
+  },
+  {
+    "id_serie": 489,
+    "id": "a8044867-6288-4969-a491-f2a8d952a378",
+    "buyer_name": "Diego Castellanos",
+    "buyer_identification": "32812431"
+  },
+  {
+    "id_serie": 490,
+    "id": "075e66ff-29fb-467e-9cbf-f5336a5c1d6d",
+    "buyer_name": "María Godoy",
+    "buyer_identification": "12541002"
+  },
+  {
+    "id_serie": 491,
+    "id": "0bb78d26-1c64-40f0-82ca-3afdd5db3691",
+    "buyer_name": "jackson bastidas",
+    "buyer_identification": "33442349"
+  },
+  {
+    "id_serie": 60,
+    "id": "f8a6015f-6e64-47ef-bbb7-eeca7cea1154",
+    "buyer_name": "Enco juarez",
+    "buyer_identification": "33948817"
+  },
+  {
+    "id_serie": 61,
+    "id": "70621329-602b-4133-9829-d0e5f3b8452b",
+    "buyer_name": "Johan hernandez",
+    "buyer_identification": "33088214"
+  },
+  {
+    "id_serie": 62,
+    "id": "2ddeeb45-e7b5-4304-9ffe-97ceb3fbc5b1",
+    "buyer_name": "angel vargas",
+    "buyer_identification": "33597484"
+  },
+  {
+    "id_serie": 63,
+    "id": "6531b8d6-31f4-4302-8357-0eb38854d535",
+    "buyer_name": "Barbara vasquez",
+    "buyer_identification": "33574147"
+  },
+  {
+    "id_serie": 68,
+    "id": "a47dc2d8-a205-4305-8f12-0fb9b1c8c12b",
+    "buyer_name": "Ashley gonzalez",
+    "buyer_identification": "33698969"
+  },
+  {
+    "id_serie": 69,
+    "id": "562d4550-5501-4ac2-aec1-d9219d483eea",
+    "buyer_name": "wilyimar araujo",
+    "buyer_identification": "33698939"
+  },
+  {
+    "id_serie": 70,
+    "id": "f3d42965-b369-423c-a7bb-2358e02830b7",
+    "buyer_name": "Samuel bello",
+    "buyer_identification": "33343548"
+  },
+  {
+    "id_serie": 71,
+    "id": "e3e8dca5-cdfb-4ba9-800c-22747fe6bb53",
+    "buyer_name": "lismar colmenares",
+    "buyer_identification": "33640305"
+  },
+  {
+    "id_serie": 72,
+    "id": "6817527f-0d54-4a77-a9db-e7c4f2307b89",
+    "buyer_name": "Gabriela alvarez",
+    "buyer_identification": "33465686"
+  },
+  {
+    "id_serie": 73,
+    "id": "ec463597-a0e7-4cbf-9042-a0f6f3d27c34",
+    "buyer_name": "Edgar vieras",
+    "buyer_identification": "33573909"
+  },
+  {
+    "id_serie": 74,
+    "id": "cab5b5ed-d374-4be7-8177-6ee0ce5cbe48",
+    "buyer_name": "keyner Morillo",
+    "buyer_identification": "33949440"
+  },
+  {
+    "id_serie": 75,
+    "id": "30422c80-e443-4029-b3dc-db2d72e910a7",
+    "buyer_name": "Alexis Segovia",
+    "buyer_identification": "33310691"
+  },
+  {
+    "id_serie": 76,
+    "id": "5b260688-54e2-476d-88a7-2bbe43862531",
+    "buyer_name": "aleanny briceño",
+    "buyer_identification": "34105005"
+  },
+  {
+    "id_serie": 134,
+    "id": "f6dd8f58-73ed-4905-87ee-1bd75293a647",
+    "buyer_name": "Ana villasmil",
+    "buyer_identification": "33488776"
+  },
+  {
+    "id_serie": 135,
+    "id": "d7396c99-fd9b-4a71-9ad3-5bb816019ddb",
+    "buyer_name": "ODESSA González",
+    "buyer_identification": "11616435"
+  },
+  {
+    "id_serie": 136,
+    "id": "ec0c5819-e04e-4f9a-a371-8265209e5c0f",
+    "buyer_name": "Guadalupe rosales",
+    "buyer_identification": "32886343"
+  },
+  {
+    "id_serie": 137,
+    "id": "6d15dcb2-8d67-46f6-81e6-5f08fd7ba7bf",
+    "buyer_name": "Rafael rosales",
+    "buyer_identification": "10031879"
+  },
+  {
+    "id_serie": 138,
+    "id": "bb85af28-d2ed-463f-8409-bef1b62c2d9c",
+    "buyer_name": "Bashir Chebli",
+    "buyer_identification": "33000030"
+  },
+  {
+    "id_serie": 139,
+    "id": "77ecff43-1870-43d5-b55d-3fdb173ffca2",
+    "buyer_name": "Saray Rivero",
+    "buyer_identification": "33466026"
+  },
+  {
+    "id_serie": 140,
+    "id": "cc44acac-7ad4-40a4-a8e7-c0f8b054422f",
+    "buyer_name": "José Miguel Briceño",
+    "buyer_identification": "32775848"
+  },
+  {
+    "id_serie": 143,
+    "id": "de38f1ff-0eb9-4b4f-beb3-9bd0454a88ff",
+    "buyer_name": "Dharris Ramirez",
+    "buyer_identification": "33381872"
+  },
+  {
+    "id_serie": 144,
+    "id": "10573902-6d96-47e6-97d8-5b630d0bd60f",
+    "buyer_name": "Antonella Palomares",
+    "buyer_identification": "34591359"
+  },
+  {
+    "id_serie": 145,
+    "id": "065174e8-30f5-453f-ad47-e1456b618811",
+    "buyer_name": "Diego Materan",
+    "buyer_identification": "32282718"
+  },
+  {
+    "id_serie": 146,
+    "id": "e964c1ab-3915-4b93-a743-588326adae46",
+    "buyer_name": "Luisa materan",
+    "buyer_identification": "34467334"
+  },
+  {
+    "id_serie": 149,
+    "id": "1c7f1cfb-e8ce-4edc-803d-42caadf05051",
+    "buyer_name": "Andrés González",
+    "buyer_identification": "30880090"
+  },
+  {
+    "id_serie": 150,
+    "id": "4d98fb62-295d-4b80-bb6a-3b1dd9f9d8a1",
+    "buyer_name": "Fabiana Pérez",
+    "buyer_identification": "36233029"
+  },
+  {
+    "id_serie": 248,
+    "id": "3eb1fa1c-b9e3-43b9-8236-fd951a0b97bc",
+    "buyer_name": "Enmanuel suarez",
+    "buyer_identification": "33466065"
+  },
+  {
+    "id_serie": 249,
+    "id": "f2e16df7-a7f8-421d-96e0-0d335783e384",
+    "buyer_name": "Franyeli Carrero",
+    "buyer_identification": "21061095"
+  },
+  {
+    "id_serie": 250,
+    "id": "e0ec6f59-87d2-4882-b7bc-c64fa6b915b5",
+    "buyer_name": "Valentina saavedra",
+    "buyer_identification": "34902649"
+  },
+  {
+    "id_serie": 251,
+    "id": "4117a715-eb06-4f09-aa42-711c0153f2fc",
+    "buyer_name": "nicole Villarreal",
+    "buyer_identification": "34449051"
+  },
+  {
+    "id_serie": 252,
+    "id": "c22f753a-808f-45ba-a1a0-af4bcfe10a64",
+    "buyer_name": "Carlos marin",
+    "buyer_identification": "33573986"
+  },
+  {
+    "id_serie": 253,
+    "id": "f3af1426-e206-472d-be80-5aefb66984c5",
+    "buyer_name": "Diego avila",
+    "buyer_identification": "34360664"
+  },
+  {
+    "id_serie": 254,
+    "id": "d98686b2-20a4-495c-8ce4-b7161dba5afa",
+    "buyer_name": "Pedro cestari",
+    "buyer_identification": "33494469"
+  },
+  {
+    "id_serie": 255,
+    "id": "bf1ae307-43b9-401e-af75-d97a7c6fc8e5",
+    "buyer_name": "Ronal hernandez",
+    "buyer_identification": "33406850"
+  },
+  {
+    "id_serie": 256,
+    "id": "4da5a7ce-4928-48df-ba0a-c9c12b9d5eb5",
+    "buyer_name": "Luciana Mendez",
+    "buyer_identification": "34839033"
+  },
+  {
+    "id_serie": 257,
+    "id": "f993de32-c5b0-484d-bdc3-a84827b71e60",
+    "buyer_name": "Leonardo castari",
+    "buyer_identification": "33494471"
+  },
+  {
+    "id_serie": 258,
+    "id": "cd762330-2aec-4416-86a1-107c9c366a8e",
+    "buyer_name": "Samuel gallardo",
+    "buyer_identification": "32188360"
+  },
+  {
+    "id_serie": 259,
+    "id": "6c4c65f2-e086-45ec-872b-3985f744787e",
+    "buyer_name": "María osuna",
+    "buyer_identification": "34957559"
+  },
+  {
+    "id_serie": 260,
+    "id": "f8996d69-d571-4081-bc7b-052c2e29ebca",
+    "buyer_name": "Angelo perez",
+    "buyer_identification": "33813520"
+  },
+  {
+    "id_serie": 261,
+    "id": "8d36f1b7-424a-4916-a20b-00755c46b6e8",
+    "buyer_name": "Adrian Mendez",
+    "buyer_identification": "33406848"
+  },
+  {
+    "id_serie": 262,
+    "id": "470db581-aedb-4c20-827e-e29fec036c64",
+    "buyer_name": "Manuel avila",
+    "buyer_identification": "34360663"
+  },
+  {
+    "id_serie": 263,
+    "id": "cc160691-3517-4d98-bfb8-0488060244d6",
+    "buyer_name": "Yohan matheus",
+    "buyer_identification": "17605675"
+  },
+  {
+    "id_serie": 264,
+    "id": "12ebb6ee-b28c-406c-99d3-9fa5e2c0c04d",
+    "buyer_name": "Marcia Saavedra",
+    "buyer_identification": "17604357"
+  },
+  {
+    "id_serie": 265,
+    "id": "01dd82c0-a160-4e4e-bead-f314aacd8c6d",
+    "buyer_name": "Astrid matheus",
+    "buyer_identification": "36427850"
+  },
+  {
+    "id_serie": 266,
+    "id": "dc4788ad-429e-431b-b5ce-8485d9381a3f",
+    "buyer_name": "franyela marin",
+    "buyer_identification": "33087815"
+  },
+  {
+    "id_serie": 229,
+    "id": "f044fc59-4aef-45cd-82c2-d976d5098031",
+    "buyer_name": "Natalia araujo",
+    "buyer_identification": "34104694"
+  },
+  {
+    "id_serie": 230,
+    "id": "8a8640de-1deb-4513-8670-57d59bf89f5a",
+    "buyer_name": "Mafer rosales",
+    "buyer_identification": "34105059"
+  },
+  {
+    "id_serie": 231,
+    "id": "afc96628-cea3-474a-a79f-82455ecc5f90",
+    "buyer_name": "Luciana nava",
+    "buyer_identification": "34687016"
+  },
+  {
+    "id_serie": 232,
+    "id": "f1aca708-6c69-412a-bacb-98986e44ad3b",
+    "buyer_name": "Marcela nava",
+    "buyer_identification": "34687015"
+  },
+  {
+    "id_serie": 233,
+    "id": "bf6016ca-321e-42af-8143-572ff0afec51",
+    "buyer_name": "Johana camacho",
+    "buyer_identification": "13295209"
+  },
+  {
+    "id_serie": 234,
+    "id": "1cdc4afd-ce78-41b7-bd18-c9346edeccfd",
+    "buyer_name": "jean Camacho",
+    "buyer_identification": "13295208"
+  },
+  {
+    "id_serie": 235,
+    "id": "45ce1c94-dd81-4c3a-9a89-09bea10e9664",
+    "buyer_name": "jheanny culinsky",
+    "buyer_identification": "28096801"
+  },
+  {
+    "id_serie": 236,
+    "id": "853762ea-cbf0-4195-92dd-719399975fed",
+    "buyer_name": "Sebastián Sánchez",
+    "buyer_identification": "34265579"
+  },
+  {
+    "id_serie": 237,
+    "id": "da2e50e7-cb36-4529-a819-17427edd794e",
+    "buyer_name": "Barbara Betancourt",
+    "buyer_identification": "32053968"
+  },
+  {
+    "id_serie": 238,
+    "id": "052109b4-4294-4c27-aa15-9c6f0b6cb4f6",
+    "buyer_name": "Gabriela ramirez",
+    "buyer_identification": "34360277"
+  },
+  {
+    "id_serie": 239,
+    "id": "49e0b7cd-780d-4392-bb7d-94edbd51bc38",
+    "buyer_name": "aron araque",
+    "buyer_identification": "33940630"
+  },
+  {
+    "id_serie": 240,
+    "id": "b9555af1-71d3-4ee9-ab32-fe7cd5321530",
+    "buyer_name": "Enmanuel Briceño",
+    "buyer_identification": "34173512"
+  },
+  {
+    "id_serie": 241,
+    "id": "dbb5654c-9a8b-44b7-933f-ed2bd059731b",
+    "buyer_name": "Willy peña",
+    "buyer_identification": "33573900"
+  },
+  {
+    "id_serie": 242,
+    "id": "c749c67b-af6b-4def-afcf-2b98c65bc43c",
+    "buyer_name": "santiafo",
+    "buyer_identification": "32188608"
+  },
+  {
+    "id_serie": 243,
+    "id": "34a98122-3e29-499b-8718-090ae4819433",
+    "buyer_name": "joendy",
+    "buyer_identification": "33458142"
+  },
+  {
+    "id_serie": 244,
+    "id": "2fcf3a67-9c32-4662-9761-d0923b0f9d0b",
+    "buyer_name": "luz saavedra",
+    "buyer_identification": "11619070"
+  },
+  {
+    "id_serie": 245,
+    "id": "8119342c-4f72-4e6d-9db0-8e4c2e337bbb",
+    "buyer_name": "Hugo ocanto",
+    "buyer_identification": "37505633"
+  },
+  {
+    "id_serie": 283,
+    "id": "ab21c0e9-5560-4ab1-a4cd-bbe1eb8e54dd",
+    "buyer_name": "Mariana Mendoza",
+    "buyer_identification": "33382136"
+  },
+  {
+    "id_serie": 284,
+    "id": "7d6319fa-010f-43e5-8e12-ac928d5e114c",
+    "buyer_name": "Javier torres",
+    "buyer_identification": "31413304"
+  },
+  {
+    "id_serie": 285,
+    "id": "89271a1a-52ca-4206-8604-a4b0a1edae88",
+    "buyer_name": "Leandro mejias",
+    "buyer_identification": "33457989"
+  },
+  {
+    "id_serie": 419,
+    "id": "ec147135-f3f3-4768-ba88-ea18a81382eb",
+    "buyer_name": "Juan montilla",
+    "buyer_identification": "33087798"
+  },
+  {
+    "id_serie": 420,
+    "id": "2304a1f4-7963-416f-aaba-cc5fcad3d5f5",
+    "buyer_name": "leinibel albarran",
+    "buyer_identification": "32733038"
+  },
+  {
+    "id_serie": 421,
+    "id": "32d1ebba-f98c-4ed9-86dd-8d0f103d4b75",
+    "buyer_name": "María pirela",
+    "buyer_identification": "32621189"
+  },
+  {
+    "id_serie": 422,
+    "id": "5c3de848-6f30-4e22-91a4-4c0f906c7ecf",
+    "buyer_name": "Sara riera",
+    "buyer_identification": "32444139"
+  },
+  {
+    "id_serie": 423,
+    "id": "19814903-32b7-4e1c-8354-68ab4f21d0c9",
+    "buyer_name": "katerint rivas",
+    "buyer_identification": "32462480"
+  },
+  {
+    "id_serie": 424,
+    "id": "557bbecb-beb6-4482-a3c5-252f35ecbeb3",
+    "buyer_name": "reinel garoa",
+    "buyer_identification": "33465300"
+  },
+  {
+    "id_serie": 425,
+    "id": "72ba3d61-1146-4b20-9c6d-e260392e1fad",
+    "buyer_name": "Tony Rivas",
+    "buyer_identification": "26691628"
+  },
+  {
+    "id_serie": 426,
+    "id": "9bd36aba-809c-4736-8736-38a0dd1e808a",
+    "buyer_name": "julio moreno",
+    "buyer_identification": "13841548"
+  },
+  {
+    "id_serie": 427,
+    "id": "494e9694-9172-447f-9373-74e882974ab2",
+    "buyer_name": "Mariangel moreno",
+    "buyer_identification": "33494156"
+  },
+  {
+    "id_serie": 428,
+    "id": "d8febbd2-88e1-4aa9-bba4-4e012ed6a348",
+    "buyer_name": "Alexander Albarrán",
+    "buyer_identification": "32621142"
+  },
+  {
+    "id_serie": 429,
+    "id": "10e008e9-fe4b-4686-a1cf-e683930836dd",
+    "buyer_name": "José Andrés",
+    "buyer_identification": "33899057"
+  },
+  {
+    "id_serie": 430,
+    "id": "261c3bc9-3dcb-4977-acf3-f85cca7a8d51",
+    "buyer_name": "Diego espinosa",
+    "buyer_identification": "33640250"
+  },
+  {
+    "id_serie": 431,
+    "id": "08767c86-9047-45ad-a533-f43526d9ae18",
+    "buyer_name": "Arianna peña",
+    "buyer_identification": "34903424"
+  },
+  {
+    "id_serie": 432,
+    "id": "996bffb8-433d-4a2f-afba-5cfec189a212",
+    "buyer_name": "Luciana jerez",
+    "buyer_identification": "19795308"
+  },
+  {
+    "id_serie": 433,
+    "id": "ceeaa53a-3b77-49c1-b1f2-c54c0a98a485",
+    "buyer_name": "adriana torres",
+    "buyer_identification": "18801162"
+  },
+  {
+    "id_serie": 434,
+    "id": "57a6ecc4-b8c5-4355-ad74-4e9e4786b80b",
+    "buyer_name": "daríanna Aldana",
+    "buyer_identification": "34957763"
+  },
+  {
+    "id_serie": 435,
+    "id": "ab1efca8-2c99-454c-b4c8-acfd34fe86cc",
+    "buyer_name": "scarlith ramirez",
+    "buyer_identification": "33466087"
+  },
+  {
+    "id_serie": 436,
+    "id": "d466f206-3a38-4e5d-af7c-f21e159697ec",
+    "buyer_name": "darlianny Araujo",
+    "buyer_identification": "33639713"
+  },
+  {
+    "id_serie": 437,
+    "id": "fad72a99-daf0-4c82-abba-17c56feda91e",
+    "buyer_name": "Gabriela para",
+    "buyer_identification": "33639814"
+  },
+  {
+    "id_serie": 494,
+    "id": "63c3caed-958e-458d-ac3d-5645da904553",
+    "buyer_name": "victoria paredes",
+    "buyer_identification": "33813529"
+  },
+  {
+    "id_serie": 493,
+    "id": "8615a801-5097-4243-8f4c-8e1fa8353c38",
+    "buyer_name": "Luis Sánchez",
+    "buyer_identification": "33813473"
+  },
+  {
+    "id_serie": 492,
+    "id": "72d7d645-d042-4d47-bf62-5fa7502b0bea",
+    "buyer_name": "Manuel laguna",
+    "buyer_identification": "34174177"
+  },
+  {
+    "id_serie": 167,
+    "id": "cf89e8eb-e4ec-4c6d-b07f-feb39292f8c6",
+    "buyer_name": "Jhon derota",
+    "buyer_identification": "31320051"
+  },
+  {
+    "id_serie": 168,
+    "id": "732bfa40-0136-4c8a-9cfe-942d77eb7bda",
+    "buyer_name": "Sebastián cabo",
+    "buyer_identification": "34448980"
+  },
+  {
+    "id_serie": 169,
+    "id": "2e1d052f-38ae-4e30-be51-b1b7544d199d",
+    "buyer_name": "Daniel curvelo",
+    "buyer_identification": "36325369"
+  },
+  {
+    "id_serie": 170,
+    "id": "8af87f03-f401-4d98-b554-e26311736d16",
+    "buyer_name": "Wilson carrillo",
+    "buyer_identification": "32375888"
+  },
+  {
+    "id_serie": 171,
+    "id": "6116f2b0-11e4-4b74-ae63-122608a11106",
+    "buyer_name": "Camila Linares",
+    "buyer_identification": "33899149"
+  },
+  {
+    "id_serie": 400,
+    "id": "30ad09d4-f3b0-455c-aec6-94f86551ff0e",
+    "buyer_name": "Valeria blanco",
+    "buyer_identification": "33856820"
+  },
+  {
+    "id_serie": 401,
+    "id": "730e4816-9e10-40fc-8df4-2fb822ab418f",
+    "buyer_name": "marialy araujo",
+    "buyer_identification": "33698576"
+  },
+  {
+    "id_serie": 402,
+    "id": "3b4b7aad-20ba-4aaa-a3b7-2845d858c9da",
+    "buyer_name": "Samantha viloria",
+    "buyer_identification": "34104605"
+  },
+  {
+    "id_serie": 404,
+    "id": "f0d4dfc7-4047-4955-b31a-57cda673505f",
+    "buyer_name": "Barbara desa",
+    "buyer_identification": "33465378"
+  },
+  {
+    "id_serie": 405,
+    "id": "6686fe9d-adff-4261-9462-07942a0b7a1b",
+    "buyer_name": "Alejandro solano",
+    "buyer_identification": "31732546"
+  },
+  {
+    "id_serie": 406,
+    "id": "c10e9e93-4cb7-4235-9c5f-fd84f4543613",
+    "buyer_name": "yorlenis alfaona",
+    "buyer_identification": "33457893"
+  },
+  {
+    "id_serie": 407,
+    "id": "c147c6af-ae8e-4bcc-94e5-548363be7cda",
+    "buyer_name": "Sebastián Venegas",
+    "buyer_identification": "33573446"
+  },
+  {
+    "id_serie": 408,
+    "id": "d54683f6-5c00-47d2-90e7-21e46b1f2f85",
+    "buyer_name": "janibel león",
+    "buyer_identification": "34517965"
+  },
+  {
+    "id_serie": 409,
+    "id": "4791b50f-4c57-403a-bba3-bab4a658e17e",
+    "buyer_name": "valeria mateus",
+    "buyer_identification": "33382378"
+  },
+  {
+    "id_serie": 410,
+    "id": "e7ab0ab0-ff82-40b0-a61e-d9945885108b",
+    "buyer_name": "Gabriel Rivas",
+    "buyer_identification": "34517429"
+  },
+  {
+    "id_serie": 411,
+    "id": "e1b54cf7-5289-456e-9f55-f5800db4791f",
+    "buyer_name": "Daniel Rivas",
+    "buyer_identification": "33898793"
+  },
+  {
+    "id_serie": 412,
+    "id": "df25dc21-c994-4abd-8cfd-0b02108fc6cf",
+    "buyer_name": "victoria briceño",
+    "buyer_identification": "35116621"
+  },
+  {
+    "id_serie": 413,
+    "id": "b2559bbe-d577-44e5-9950-e1e8fff91e19",
+    "buyer_name": "darianna dasilva",
+    "buyer_identification": "34173548"
+  },
+  {
+    "id_serie": 414,
+    "id": "4af520a8-1f62-4964-9252-d0c0a342027f",
+    "buyer_name": "Chiquinquirá medina",
+    "buyer_identification": "30189994"
+  },
+  {
+    "id_serie": 415,
+    "id": "3f733f3c-af05-48c8-8f4f-908209df5c78",
+    "buyer_name": "Kevin araujo",
+    "buyer_identification": "30259086"
+  },
+  {
+    "id_serie": 403,
+    "id": "72488171-8709-4cfe-98d0-08843f3e8e0b",
+    "buyer_name": "Adrian Alejandro",
+    "buyer_identification": "36075394"
+  },
+  {
+    "id_serie": 343,
+    "id": "18224ad1-4c95-42c5-b957-0593b94ff497",
+    "buyer_name": "Sebastián Montilla",
+    "buyer_identification": "34360543"
+  },
+  {
+    "id_serie": 344,
+    "id": "d134a415-c47b-4bd8-b601-8734fd28d42a",
+    "buyer_name": "Sebastián strada",
+    "buyer_identification": "33164226"
+  },
+  {
+    "id_serie": 345,
+    "id": "43762881-b184-4260-a178-c912002d3568",
+    "buyer_name": "jean antonello",
+    "buyer_identification": "34105254"
+  },
+  {
+    "id_serie": 346,
+    "id": "7a9c7b27-4c61-4cff-aadb-79a2703f7da6",
+    "buyer_name": "Julián y laguna",
+    "buyer_identification": "33898832"
+  },
+  {
+    "id_serie": 347,
+    "id": "29a25704-af94-45ce-8cb8-a444147ba687",
+    "buyer_name": "Douglas rosales",
+    "buyer_identification": "34174122"
+  },
+  {
+    "id_serie": 348,
+    "id": "c6172120-9ce0-458f-a35a-d98c9c8c7003",
+    "buyer_name": "yelver vielma",
+    "buyer_identification": "33465692"
+  },
+  {
+    "id_serie": 349,
+    "id": "74b37cb0-b15d-468a-9b01-c6973db2d5d3",
+    "buyer_name": "deiker castellanos",
+    "buyer_identification": "32220630"
+  },
+  {
+    "id_serie": 350,
+    "id": "d2e03b78-33c5-4449-8373-403f835996f7",
+    "buyer_name": "Ashley peña",
+    "buyer_identification": "34686188"
+  },
+  {
+    "id_serie": 351,
+    "id": "6d38ac82-6bf0-42d4-a749-ce50da5a9cfd",
+    "buyer_name": "reinet garcia",
+    "buyer_identification": "33573447"
+  },
+  {
+    "id_serie": 352,
+    "id": "e76f7f5c-8298-435d-b7ea-5ae30be302a0",
+    "buyer_name": "yovismar zambrano",
+    "buyer_identification": "34590864"
+  },
+  {
+    "id_serie": 353,
+    "id": "6f62609d-f285-4546-8a1f-52e9dee6a382",
+    "buyer_name": "Luis angel",
+    "buyer_identification": "32551186"
+  },
+  {
+    "id_serie": 354,
+    "id": "ddddf6f3-5cf0-4f67-932d-7b5cda869a8a",
+    "buyer_name": "Juan diego",
+    "buyer_identification": "30866859"
+  },
+  {
+    "id_serie": 355,
+    "id": "9dd27335-9914-4c31-808c-97e609969123",
+    "buyer_name": "sarelis Villegas",
+    "buyer_identification": "33382700"
+  },
+  {
+    "id_serie": 356,
+    "id": "8fd54e50-c250-48aa-99dc-2af8556260de",
+    "buyer_name": "victoria diaz",
+    "buyer_identification": "33382513"
+  },
+  {
+    "id_serie": 357,
+    "id": "d7bbdff9-94d5-47d0-8c91-da0a9a43ebde",
+    "buyer_name": "Yeferson diaz",
+    "buyer_identification": "33698756"
+  },
+  {
+    "id_serie": 358,
+    "id": "d5dbae36-32f8-4763-ad91-9ec596d25894",
+    "buyer_name": "Natasha diaz",
+    "buyer_identification": "34767968"
+  },
+  {
+    "id_serie": 359,
+    "id": "15369007-b1cf-4519-9bd4-1b78e4984031",
+    "buyer_name": "Alessandro vasquez",
+    "buyer_identification": "34174193"
+  },
+  {
+    "id_serie": 360,
+    "id": "fa815bd4-b305-4654-a124-e17bbbd7e191",
+    "buyer_name": "Samuel castro",
+    "buyer_identification": "34174120"
+  },
+  {
+    "id_serie": 361,
+    "id": "ed4a7032-9122-4d50-ad53-58b62b3e3ee7",
+    "buyer_name": "Leonardo Pérez",
+    "buyer_identification": "33898539"
+  },
+  {
+    "id_serie": 511,
+    "id": "95666669-64d6-4b02-ad4d-b0ec178be142",
+    "buyer_name": "sergio de la Roche",
+    "buyer_identification": "34541775"
+  },
+  {
+    "id_serie": 512,
+    "id": "8fe93b1e-7e44-4ba9-ba77-09c921744dcf",
+    "buyer_name": "endry rivas",
+    "buyer_identification": "33087878"
+  },
+  {
+    "id_serie": 513,
+    "id": "14d327f5-3a5a-471c-8454-a34a929f9079",
+    "buyer_name": "Ricardo moreno",
+    "buyer_identification": "33494626"
+  },
+  {
+    "id_serie": 530,
+    "id": "739d1dc7-89d8-4da8-8e5f-86f6cadf07c5",
+    "buyer_name": "nohely carmona",
+    "buyer_identification": "33406966"
+  },
+  {
+    "id_serie": 531,
+    "id": "f6f18c69-5290-401a-97d0-4c6b56b732fa",
+    "buyer_name": "José peña",
+    "buyer_identification": "31589548"
+  },
+  {
+    "id_serie": 532,
+    "id": "7f7281b6-47e8-48ee-abcd-e9f4374ca21a",
+    "buyer_name": "José briceño",
+    "buyer_identification": "34359950"
+  },
+  {
+    "id_serie": 974,
+    "id": "0dd078e1-0644-4442-a665-a70f37f2fdb8",
+    "buyer_name": "Daría Viloria",
+    "buyer_identification": "33574329"
+  },
+  {
+    "id_serie": 975,
+    "id": "e4ad10c4-2c78-4ca7-a1d5-111c5fec4cbd",
+    "buyer_name": "Héctor Olmos",
+    "buyer_identification": "34360047"
+  },
+  {
+    "id_serie": 976,
+    "id": "7687155f-4488-4652-901c-00794da3389f",
+    "buyer_name": "Luciana González",
+    "buyer_identification": "33712438"
+  },
+  {
+    "id_serie": 977,
+    "id": "72da41e2-4659-4fa7-b955-0e4106f72183",
+    "buyer_name": "Yandrea Osorio",
+    "buyer_identification": "31897787"
+  },
+  {
+    "id_serie": 978,
+    "id": "5bf79f5b-79dc-46f1-bbf0-4baed7545460",
+    "buyer_name": "Santiago Rivas",
+    "buyer_identification": "34104778"
+  },
+  {
+    "id_serie": 979,
+    "id": "bb19d877-af81-490d-96d1-849a551e35c5",
+    "buyer_name": "Yoneiber Mendoza",
+    "buyer_identification": "33898841"
+  },
+  {
+    "id_serie": 980,
+    "id": "e0b917d7-28ba-45f6-9114-f9081d23a641",
+    "buyer_name": "Andrus Moreno",
+    "buyer_identification": "33756290"
+  },
+  {
+    "id_serie": 981,
+    "id": "82e0d3b4-9374-4fa8-bb9a-a0b9b7f9b3ea",
+    "buyer_name": "Luis Uzcategui",
+    "buyer_identification": "36802511"
+  },
+  {
+    "id_serie": 982,
+    "id": "68473178-6e43-41a3-aa23-2f8c3e5e5405",
+    "buyer_name": "Isabella Uzcategui",
+    "buyer_identification": "34839101"
+  },
+  {
+    "id_serie": 983,
+    "id": "d8e01127-9c20-4b7e-bb11-da5073f9ec2c",
+    "buyer_name": "Nayelith Aldana",
+    "buyer_identification": "23778205"
+  },
+  {
+    "id_serie": 984,
+    "id": "c2882a01-ae0f-4750-9433-4642101a9a77",
+    "buyer_name": "Nicole Briceño",
+    "buyer_identification": "34174083"
+  },
+  {
+    "id_serie": 985,
+    "id": "8d30b6e8-1e6c-4e52-a22e-3c19d01187ca",
+    "buyer_name": "Eduardo Gil",
+    "buyer_identification": "34686564"
+  },
+  {
+    "id_serie": 986,
+    "id": "afcdcb3a-2020-4a0f-bad2-7f429c4531c1",
+    "buyer_name": "Marcelo Gil",
+    "buyer_identification": "33639849"
+  },
+  {
+    "id_serie": 987,
+    "id": "ce5c0311-d196-4cf3-95f5-75b32798a409",
+    "buyer_name": "Nicolás Graterol",
+    "buyer_identification": "34517127"
+  },
+  {
+    "id_serie": 988,
+    "id": "613f500a-b462-4c9f-a92c-27bf1a5d568e",
+    "buyer_name": "Anyels Bencomo",
+    "buyer_identification": "34035424"
+  },
+  {
+    "id_serie": 989,
+    "id": "56648192-62f8-4659-a176-d89e9c2bba30",
+    "buyer_name": "Jesús Pineda",
+    "buyer_identification": "34174336"
+  },
+  {
+    "id_serie": 990,
+    "id": "5059ba4d-871f-4986-81e3-fa657dfb02e4",
+    "buyer_name": "Entrada",
+    "buyer_identification": "Perdida"
+  },
+  {
+    "id_serie": 991,
+    "id": "f2cc3b50-132e-46cf-a524-33474dc416e6",
+    "buyer_name": "Fernando Mendoza",
+    "buyer_identification": "34517436"
+  },
+  {
+    "id_serie": 695,
+    "id": "4ec13c4b-d2a9-4bce-baa0-74909a7300b0",
+    "buyer_name": "Frayber Albarran",
+    "buyer_identification": "33813251"
+  },
+  {
+    "id_serie": 696,
+    "id": "15f86213-2b7e-4271-aa21-ec05cb3c86e0",
+    "buyer_name": "Isaac Artigas",
+    "buyer_identification": "33636996"
+  },
+  {
+    "id_serie": 697,
+    "id": "27313591-d319-4582-b74c-d15a9eb43f6b",
+    "buyer_name": "Luis Ramírez",
+    "buyer_identification": "32374563"
+  },
+  {
+    "id_serie": 698,
+    "id": "769424e2-130d-49bc-978d-ece74268f272",
+    "buyer_name": "María Díaz",
+    "buyer_identification": "33437793"
+  },
+  {
+    "id_serie": 699,
+    "id": "2615dfae-884c-4a44-b719-1041ef10907e",
+    "buyer_name": "José Rodríguez",
+    "buyer_identification": "34104537"
+  },
+  {
+    "id_serie": 700,
+    "id": "c4607c0d-3812-4331-9100-270ff15d5414",
+    "buyer_name": "Antonella Rodríguez",
+    "buyer_identification": "33636223"
+  },
+  {
+    "id_serie": 701,
+    "id": "a06ca1cd-a11e-4c7b-9215-e3a5b706d838",
+    "buyer_name": "Rubén Araujo",
+    "buyer_identification": "12939561"
+  },
+  {
+    "id_serie": 702,
+    "id": "d882f811-eff7-413d-83c5-16a3a2273181",
+    "buyer_name": "Leyfi Gamarro",
+    "buyer_identification": "15952929"
+  },
+  {
+    "id_serie": 703,
+    "id": "724bfdf6-8520-468e-8f95-675f8bb65485",
+    "buyer_name": "Paula Araujo",
+    "buyer_identification": "35047801"
+  },
+  {
+    "id_serie": 704,
+    "id": "901cfd50-29da-4c6e-a9a6-8418d9b27cf0",
+    "buyer_name": "Issac Hernández",
+    "buyer_identification": "Sin Identificación"
+  },
+  {
+    "id_serie": 705,
+    "id": "f56c6400-5c09-4591-8c8a-99945dceb589",
+    "buyer_name": "Cristian Cañizalez",
+    "buyer_identification": "33698978"
+  },
+  {
+    "id_serie": 706,
+    "id": "d58cbd91-f238-4bb5-b9e4-3ef9f254459c",
+    "buyer_name": "Naimar Pineda",
+    "buyer_identification": "33494640"
+  },
+  {
+    "id_serie": 707,
+    "id": "8d20d260-a3f1-47cb-87ab-27c5f54f8b62",
+    "buyer_name": "Pagado Por",
+    "buyer_identification": "Estudiante"
+  },
+  {
+    "id_serie": 708,
+    "id": "43b1d23f-394d-4a1e-9613-a5324ed0f221",
+    "buyer_name": "Juan Gual",
+    "buyer_identification": "34360512"
+  },
+  {
+    "id_serie": 709,
+    "id": "eed281f2-032f-4d2d-9ba0-6cc9b22db172",
+    "buyer_name": "José Suárez",
+    "buyer_identification": "33494115"
+  },
+  {
+    "id_serie": 710,
+    "id": "c57d39fe-7987-4df7-975b-c334b5a1011a",
+    "buyer_name": "Cristopher Carrillo",
+    "buyer_identification": "33382424"
+  },
+  {
+    "id_serie": 711,
+    "id": "36fe17f4-7aad-4bfe-b914-4eb3812c344f",
+    "buyer_name": "Erick Benítez",
+    "buyer_identification": "32116462"
+  },
+  {
+    "id_serie": 712,
+    "id": "da3ab72b-4a61-4ab9-9a0b-dfe9f149f4f0",
+    "buyer_name": "Benyisely Olivar",
+    "buyer_identification": "34503211"
+  },
+  {
+    "id_serie": 202,
+    "id": "769590fd-89b6-4bef-bc4f-72e08541a3da",
+    "buyer_name": "marisela olmos",
+    "buyer_identification": "13896043"
+  },
+  {
+    "id_serie": 203,
+    "id": "59477449-d507-4f47-83d5-2a7a8f7395a7",
+    "buyer_name": "Fran Delgadillo",
+    "buyer_identification": "19328311"
+  },
+  {
+    "id_serie": 204,
+    "id": "f848f3ea-16f3-45f3-bd35-7335ef012341",
+    "buyer_name": "franco Delgadillo",
+    "buyer_identification": "33087487"
+  },
+  {
+    "id_serie": 205,
+    "id": "b4dddbef-a161-4c12-b737-45c8f0f143b3",
+    "buyer_name": "Katerine barrios",
+    "buyer_identification": "36371955"
+  },
+  {
+    "id_serie": 902,
+    "id": "392bc043-cda1-4978-a88c-37b881ac24d0",
+    "buyer_name": "Valeria Fajardo",
+    "buyer_identification": "33598087"
+  },
+  {
+    "id_serie": 903,
+    "id": "9ff7a24f-1c46-4d70-a145-0a8b3b16b294",
+    "buyer_name": "Camila Bastidas",
+    "buyer_identification": "33898318"
+  },
+  {
+    "id_serie": 904,
+    "id": "bd5cea9c-6bfa-4b35-b2d6-f525d0adee3d",
+    "buyer_name": "Mary Alejandra",
+    "buyer_identification": "17604109"
+  },
+  {
+    "id_serie": 905,
+    "id": "fad55b7a-fafc-40f1-b47f-4a71db462d0d",
+    "buyer_name": "Luis Ángel",
+    "buyer_identification": "15583862"
+  },
+  {
+    "id_serie": 906,
+    "id": "5ee77d93-9d78-4b38-a0ec-b9c387777076",
+    "buyer_name": "Ángel Alejandro",
+    "buyer_identification": "34767642"
+  },
+  {
+    "id_serie": 907,
+    "id": "c75b3b2a-3789-420c-a233-f1072bac2168",
+    "buyer_name": "Aliana Rivas",
+    "buyer_identification": "33699233"
+  },
+  {
+    "id_serie": 908,
+    "id": "ce5328f3-10e4-4444-b83c-31741912760a",
+    "buyer_name": "Daríana Molina",
+    "buyer_identification": "33311198"
+  },
+  {
+    "id_serie": 909,
+    "id": "4b1b3191-9eb2-45cf-b6b9-8ec372af0490",
+    "buyer_name": "Ángel Sosa",
+    "buyer_identification": "31980268"
+  },
+  {
+    "id_serie": 910,
+    "id": "3138595b-8810-489d-98fd-c692954a6f0a",
+    "buyer_name": "Xioritmar Blanco",
+    "buyer_identification": "33465633"
+  },
+  {
+    "id_serie": 911,
+    "id": "01112ca2-b846-4efb-9d51-94222d9ad365",
+    "buyer_name": "Miguel Nodal",
+    "buyer_identification": "32550518"
+  },
+  {
+    "id_serie": 912,
+    "id": "00bee972-8461-4b7e-b8a3-cf722ca079c5",
+    "buyer_name": "José Rivas",
+    "buyer_identification": "31979456"
+  },
+  {
+    "id_serie": 913,
+    "id": "d4135e27-200a-44b2-bc85-c0dfa062177b",
+    "buyer_name": "Santiago Rodríguez",
+    "buyer_identification": "33640292"
+  },
+  {
+    "id_serie": 914,
+    "id": "753bf029-9950-4fde-927a-9bb4e81c9429",
+    "buyer_name": "Juan Gutiérrez",
+    "buyer_identification": "34104369"
+  },
+  {
+    "id_serie": 915,
+    "id": "7c90e054-2f47-4b40-9a1c-21dcd2242e5b",
+    "buyer_name": "Camila Valecillos",
+    "buyer_identification": "33382323"
+  },
+  {
+    "id_serie": 916,
+    "id": "933486d0-0e01-4736-8894-f093e960c732",
+    "buyer_name": "Samir Viloria",
+    "buyer_identification": "33756103"
+  },
+  {
+    "id_serie": 917,
+    "id": "17f6bc56-a1c7-4183-b728-85006bc1d1f2",
+    "buyer_name": "Elis Mar Quiroga",
+    "buyer_identification": "34035401"
+  },
+  {
+    "id_serie": 918,
+    "id": "53642538-44d2-41e3-baec-51cd2c5afd67",
+    "buyer_name": "Diego Fernández",
+    "buyer_identification": "33948696"
+  },
+  {
+    "id_serie": 919,
+    "id": "a2cea966-da1d-4278-a38a-b0785c2fcb8c",
+    "buyer_name": "Carlos González",
+    "buyer_identification": "32758816"
+  },
+  {
+    "id_serie": 206,
+    "id": "3bf7d314-8923-4b92-a5a2-69ef8ab59e8d",
+    "buyer_name": "lucero balza",
+    "buyer_identification": "33636988"
+  },
+  {
+    "id_serie": 207,
+    "id": "8abd0f3d-4c79-4b06-ba31-ed85dde8527b",
+    "buyer_name": "Kamila angel",
+    "buyer_identification": "35116779"
+  },
+  {
+    "id_serie": 749,
+    "id": "1c4f25b8-2c79-4347-bd85-b443f609f840",
+    "buyer_name": "Carmen Calles",
+    "buyer_identification": "34265954"
+  },
+  {
+    "id_serie": 750,
+    "id": "673461b3-65c1-4471-9eea-9087cca671f9",
+    "buyer_name": "Andrés Hurtado",
+    "buyer_identification": "34074419"
+  },
+  {
+    "id_serie": 751,
+    "id": "1179b98f-267e-4d8a-9f6d-059f9c233e40",
+    "buyer_name": "Sarai Ruiz",
+    "buyer_identification": "34104909"
+  },
+  {
+    "id_serie": 752,
+    "id": "cde86848-b95c-473e-b9ff-197dfed7c068",
+    "buyer_name": "Jesús Paredes",
+    "buyer_identification": "33948769"
+  },
+  {
+    "id_serie": 753,
+    "id": "decd39d6-6322-4bc7-8c2f-2edb5ecadfb0",
+    "buyer_name": "Saúl Ruiz",
+    "buyer_identification": "33465902"
+  },
+  {
+    "id_serie": 754,
+    "id": "73329af3-5a78-4a37-b923-e863bad05638",
+    "buyer_name": "Jhonkeiver Quintero",
+    "buyer_identification": "32620937"
+  },
+  {
+    "id_serie": 755,
+    "id": "d03cf6ef-5cdc-4254-a222-bc7fb1c6dc86",
+    "buyer_name": "Sebastián González",
+    "buyer_identification": "33698989"
+  },
+  {
+    "id_serie": 756,
+    "id": "82eadef9-3fdb-4e18-b6f2-6e0695bad27f",
+    "buyer_name": "Juan Moreno",
+    "buyer_identification": "32083925"
+  },
+  {
+    "id_serie": 757,
+    "id": "05804dd3-89d3-47d6-922f-3667b3b3fe06",
+    "buyer_name": "Santiago Bustamante",
+    "buyer_identification": "34449069"
+  },
+  {
+    "id_serie": 758,
+    "id": "2530affb-dc9a-4760-9503-b57d961ca2bc",
+    "buyer_name": "Masimiliano Mandato",
+    "buyer_identification": "34404606"
+  },
+  {
+    "id_serie": 759,
+    "id": "5788c771-3013-4d3c-a603-ce564ce47262",
+    "buyer_name": "Yerixon González",
+    "buyer_identification": "32804511"
+  },
+  {
+    "id_serie": 760,
+    "id": "f15d644f-5742-48d1-a5a9-bde68d452af7",
+    "buyer_name": "Isabella Alejandra",
+    "buyer_identification": "34116978"
+  },
+  {
+    "id_serie": 761,
+    "id": "98a141cf-6a86-4dd5-9d0a-87843373cd64",
+    "buyer_name": "Leidy Marian",
+    "buyer_identification": "23593354"
+  },
+  {
+    "id_serie": 762,
+    "id": "02e872b5-a1d8-4bf8-bd1d-d4480b81f262",
+    "buyer_name": "Yenebit Briceño",
+    "buyer_identification": "35115977"
+  },
+  {
+    "id_serie": 763,
+    "id": "dea24ce1-e04c-40ad-9950-cd807d24dfc2",
+    "buyer_name": "Mariox Artisasiuu",
+    "buyer_identification": "33813742"
+  },
+  {
+    "id_serie": 764,
+    "id": "76a4afd3-f7ac-426d-a4b8-d80ebe58d068",
+    "buyer_name": "Isabel Albornoz",
+    "buyer_identification": "12041599"
+  },
+  {
+    "id_serie": 765,
+    "id": "7736a36c-c924-4677-ac0e-51c256222798",
+    "buyer_name": "Nayib Vielma",
+    "buyer_identification": "33293711"
+  },
+  {
+    "id_serie": 766,
+    "id": "46e89725-89ca-4fb6-aac4-ae52aa2a1a8f",
+    "buyer_name": "Aranza Valera",
+    "buyer_identification": "33293711"
+  },
+  {
+    "id_serie": 785,
+    "id": "1809002b-1dd3-4054-972f-f7bc8796c689",
+    "buyer_name": "Antonella Moreno",
+    "buyer_identification": "34449041"
+  },
+  {
+    "id_serie": 786,
+    "id": "52714533-fa0c-4d65-a59e-10913263b3a6",
+    "buyer_name": "Josué Aldana",
+    "buyer_identification": "37093094"
+  },
+  {
+    "id_serie": 787,
+    "id": "94f2ac20-c48d-4839-88e3-0ab9e4e73a99",
+    "buyer_name": "Luis Araujo",
+    "buyer_identification": "31898486"
+  },
+  {
+    "id_serie": 788,
+    "id": "cee46bc5-c019-4594-bd22-4b17c3b5dda9",
+    "buyer_name": "Xavier Valera",
+    "buyer_identification": "32971505"
+  },
+  {
+    "id_serie": 789,
+    "id": "577817c6-f634-4754-b3f1-56170cbe623d",
+    "buyer_name": "Brayan Briceño",
+    "buyer_identification": "31521183"
+  },
+  {
+    "id_serie": 790,
+    "id": "fd303ca9-d543-42da-85c6-6094349c326c",
+    "buyer_name": "Cristofer Viloria",
+    "buyer_identification": "31854896"
+  },
+  {
+    "id_serie": 791,
+    "id": "14a09f10-bb7b-4f6f-ab2b-e26ca57e0c18",
+    "buyer_name": "Samuel Aldana",
+    "buyer_identification": "34360922"
+  },
+  {
+    "id_serie": 792,
+    "id": "4c5f1d78-eff1-4cd5-8d37-8e560ec7395a",
+    "buyer_name": "Luis Matheus",
+    "buyer_identification": "35047529"
+  },
+  {
+    "id_serie": 793,
+    "id": "7c1057ea-28f1-440a-a8e8-c937364b12a0",
+    "buyer_name": "Erick Ruiz",
+    "buyer_identification": "32084105"
+  },
+  {
+    "id_serie": 794,
+    "id": "e45f7f4d-e682-43c5-a71b-9ea731910a00",
+    "buyer_name": "Samuel Mendoza",
+    "buyer_identification": "32997572"
+  },
+  {
+    "id_serie": 795,
+    "id": "aa3550a2-afeb-40d4-b098-94b383c786f1",
+    "buyer_name": "Juliana Antequera",
+    "buyer_identification": "34819224"
+  },
+  {
+    "id_serie": 796,
+    "id": "a1630d21-5acc-4c20-a91a-453b747cac2c",
+    "buyer_name": "Sofía Villamizar",
+    "buyer_identification": "33381861"
+  },
+  {
+    "id_serie": 797,
+    "id": "db37be36-e4f6-4369-9009-12fcc536bb8e",
+    "buyer_name": "Mathias Pacheco",
+    "buyer_identification": "34266285"
+  },
+  {
+    "id_serie": 798,
+    "id": "4c85bece-14ca-4537-ad62-9467725c9bfe",
+    "buyer_name": "Samantha Pacheco",
+    "buyer_identification": "33640298"
+  },
+  {
+    "id_serie": 799,
+    "id": "78eae2e4-0b93-44e4-bad8-ac0e7727299c",
+    "buyer_name": "Dillinger Araujo",
+    "buyer_identification": "33437701"
+  },
+  {
+    "id_serie": 800,
+    "id": "e7f9957a-4eee-485f-ab33-a4b0d782c2ad",
+    "buyer_name": "Fernanda Rondon",
+    "buyer_identification": "32176552"
   }
 ]
